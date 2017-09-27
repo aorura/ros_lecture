@@ -1,0 +1,6 @@
+# core
+cd ~/catkin_ws;/opt/ros/kinetic/bin/roscore
+# node
+rosrun turtlesim turtlesim_node
+# teleop
+rosrun turtlesim turtle_teleop_key
